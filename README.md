@@ -19,10 +19,10 @@ Models to predict the effect of rain on fruit and vegetable prices.
  - [article in walla ](https://finance.walla.co.il/item/3438493)
 
 
-## Used By
+## Used By:
 
 This project is done by students:
 
- - [Gal dahan ](https://github.com/gal-dahan)
-- Omri rahmani
+- [Gal dahan ](https://github.com/gal-dahan)
+- [Omri rahmani ](https://github.com/omri1001) 
 - Guy levy 
